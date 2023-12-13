@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap");
+
+.title {
+  text-align: center;
+  font-family: Roboto, sans-serif;
+  font-weight: bold;
+  padding-top: 10vh;
+}
+.colortext {
+  color: #cf3031;
+}
+
+.container-cards {
+  padding-top: 7vh;
+}
+
+.card {
+  padding: 5vh 0;
+}
+
+.plant1 {
+  position: absolute;
+  padding-left: 8vw;
+}
+
+.fish {
+  position: absolute;
+  padding-left: 42vw;
+  padding-top: 12vh;
+}
+
+.plant2 {
+  position: absolute;
+  padding-left: 73vw;
+  padding-top: 10vh;
+}
+
+.subtitle {
+  text-align: center;
+  font-family: Roboto, sans-serif;
+  font-weight: bold;
+  font-size: 2.6em;
+  padding-top: 10vh;
+}
+
+.tagline {
+  text-align: center;
+  font-weight: bolder;
+  font-size: small;
+}
+.table2 {
+  display: flex;
+  justify-content: end;
+  height: 19vh;
+}
+
+.main-text {
+  padding: 0;
+}
+
+.mushroom {
+  position: absolute;
+  padding: 14vh 0 0 7vw;
+}
+
+.social_btn {
+  display: flex;
+  justify-content: center;
+  padding-top: 2vh;
+}
+
+.btn-round {
+  border-radius: 55%;
+  margin: 1vw;
+  height: 68px;
+  width: 68px;
+}
+/* .card-item1 {
+  align-items: center;
+  padding: 6vh 0 6vw 0;
+}
+.card-item2 {
+  align-items: center;
+  padding: 6vh 0 6vw 0;
+}
+
+.card-item3 {
+  align-items: center;
+  padding: 6vh 0 6vw 0;
+}
+
+.card-text {
+  display: flex;
+  justify-content: center;
+} */
